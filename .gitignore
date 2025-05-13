@@ -30,3 +30,10 @@
 
 # mac
 *.DS_Store
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/Developer-Books.iml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
